@@ -26,4 +26,5 @@ Bachelor of Science Program in Computer Science
 
 ## Contact
 **E-mail:** rathanont.s@gmail.com<br/>
-**Mobile:** +669-2271-4712
+**Mobile:** +669-2271-4712<br/>
+**LINE:** https://line.me/ti/p/A3aZ4egBAn
