@@ -1,7 +1,7 @@
 # Ratanont Sukapan
 
 ## Skills
-`HTML` `CSS` `JavaScript` `Sass` `NuxtJS` `Git`
+`HTML` `CSS` `JavaScript` `Sass` `VueJS` `NuxtJS` `Laravel` `Git`
 
 ## Experience
 > 2016 - 2017<br/>
@@ -17,7 +17,7 @@ Frontend Developer
 Frontend Developer
 
 ## Tools
-`VS Code` `Adobe XD`
+`VS Code` `Asana` `MAMP` `Slack` `Sequel Pro` `Adobe XD` `Adobe Photoshop`
 
 ## Education
 > 2012 - 2016<br/>
