@@ -34,3 +34,6 @@ Bachelor of Science Program in Computer Science
 | ![OWNDAYS SNAP](https://jp.owndays.com/storage/specials/oeoHKyuj4LZ1f2bYJ07uVopqrngxd8pkgN6PZTeK.jpeg) | ![千一作](https://jp.owndays.com/storage/specials/aaWwjVQUTDvWhD2rd60m5XihdYTPxCR0yUyXzxts.jpeg) | ![OWNDAYS+](https://jp.owndays.com/storage/specials/s3AwGJxOUifRIUZ5myLkHn9KYfZVHH4fYWAX4ldM.jpeg) |
 |:--:|:--:|:--:|
 | [OWNDAYS SNAP](https://www.owndays.com/jp/ja/news/owndays-snap) | [千一作](https://www.owndays.com/jp/ja/news/senichisaku) | [OWNDAYS+](https://www.owndays.com/jp/ja/news/owndays-plus) |
+| ![OWNDAYS SNAP](https://jp.owndays.com/storage/specials/oeoHKyuj4LZ1f2bYJ07uVopqrngxd8pkgN6PZTeK.jpeg) | ![千一作](https://jp.owndays.com/storage/specials/aaWwjVQUTDvWhD2rd60m5XihdYTPxCR0yUyXzxts.jpeg) | ![OWNDAYS+](https://jp.owndays.com/storage/specials/s3AwGJxOUifRIUZ5myLkHn9KYfZVHH4fYWAX4ldM.jpeg) |
+|:--:|:--:|:--:|
+| [OWNDAYS SNAP](https://www.owndays.com/jp/ja/news/owndays-snap) | [千一作](https://www.owndays.com/jp/ja/news/senichisaku) | [OWNDAYS+](https://www.owndays.com/jp/ja/news/owndays-plus) |
