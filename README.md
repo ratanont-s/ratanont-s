@@ -18,6 +18,7 @@ Frontend Developer
 
 ## Tools
 `VS Code` `Asana` `MAMP` `Slack` `Sequel Pro` `Adobe XD` `Adobe Photoshop`
+!\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
 
 ## Education
 > 2012 - 2016<br/>
